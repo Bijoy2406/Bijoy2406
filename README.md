@@ -51,6 +51,7 @@ Event management platform for campus communities
 - MERN Stack application
 - Event creation and registration
 - Payment integration with bKash
+- Live Demo: [https://www.campuscrew.app/](https://www.campuscrew.app/)
 
 </td>
 <td width="50%">

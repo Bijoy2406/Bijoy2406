@@ -40,7 +40,7 @@ Technology store management system
 - Built with PHP
 - Comprehensive product management
 - User-friendly interface
-
+- Live Demo: [https://refinedtech.netlify.app/](https://refinedtech.netlify.app/)
 </td>
 </tr>
 <tr>

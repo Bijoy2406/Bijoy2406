@@ -46,11 +46,11 @@ Technology store management system
 <tr>
 <td width="50%">
 
-### 🚗 [QuickLift](https://github.com/Bijoy2406/QuickLift)
-Ride-sharing/delivery service platform
-- PHP-based solution
-- Real-time service management
-- Scalable architecture
+### 🎓 [CampusCrew](https://github.com/Bijoy2406/CampusCrew)
+Event management platform for campus communities
+- MERN Stack application
+- Event creation and registration
+- Payment integration with bKash
 
 </td>
 <td width="50%">

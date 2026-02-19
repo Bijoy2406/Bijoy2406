@@ -54,14 +54,6 @@ Event management platform for campus communities
 - Live Demo: [https://www.campuscrew.app/](https://www.campuscrew.app/)
 
 </td>
-<td width="50%">
-
-### 📚 [The-Web-Chronicles](https://github.com/Bijoy2406/The-Web-Chronicles)
-Code sharing and collaboration hub
-- Multiple programming languages
-- Community-driven development
-- Educational resources
-
 </td>
 
 <td width="50%">

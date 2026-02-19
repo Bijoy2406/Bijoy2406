@@ -63,6 +63,17 @@ Code sharing and collaboration hub
 - Educational resources
 
 </td>
+
+<td width="50%">
+
+### 👕 [Denz](https://github.com/Bijoy2406/denz)
+Professional e-commerce platform for an apparel brand
+- Fully functional online store with secure checkout
+- Comprehensive product and order management
+- Mobile-first, responsive shopping experience
+- Live Demo: [denzapparel.com](https://www.denzapparel.com/)
+
+</td>
 </tr>
 </table>
 
